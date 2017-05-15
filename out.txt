@@ -1,0 +1,8 @@
+Start the child process...
+Makefile
+build
+dist
+main.cpp
+nbproject
+out.txt
+syscall.c
